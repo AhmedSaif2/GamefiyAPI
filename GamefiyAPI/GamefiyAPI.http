@@ -1,0 +1,6 @@
+@GamefiyAPI_HostAddress = http://localhost:5109
+
+GET {{GamefiyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
