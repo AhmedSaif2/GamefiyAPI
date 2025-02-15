@@ -32,14 +32,6 @@ The Game Management API is a RESTful service that enables users to manage games,
    ```  
 
 ## **Usage**  
-- Access API documentation at `http://localhost:5000/swagger`  
+- Access API documentation at `http://localhost:7241/swagger`  
 - Test endpoints using Postman or any API client  
-
-## **Sample Endpoints**  
-| Method | Endpoint | Description |  
-|--------|---------|-------------|  
-| GET | `/api/games` | Get all games (with filtering & pagination) |  
-| POST | `/api/games` | Add a new game |  
-| PUT | `/api/games/{id}` | Update game details |  
-| DELETE | `/api/games/{id}` | Remove a game |  
 
